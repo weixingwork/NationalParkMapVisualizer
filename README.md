@@ -2,6 +2,7 @@
 
 This project visualizes U.S. national park data including locations, campgrounds, webcams, and visitor centers on an interactive map using Folium.  
 本项目基于 Folium 库实现美国国家公园的位置、营地、摄像头、游客中心等数据的交互式地图展示。
+<img width="1558" alt="截屏2025-04-05 下午3 52 35" src="https://github.com/user-attachments/assets/4cc1a158-ce5d-4a2b-b787-a48f7a7b4c95" />
 
 ---
 
