@@ -1,0 +1,64 @@
+wiki_name,nps_fullName,parkCode,states,lat,lon,url
+Acadia,Acadia National Park,acad,ME,44.409286,-68.247501,https://www.nps.gov/acad/index.htm
+American Samoa,National Park of American Samoa,npsa,AS,-14.22865935,-169.8503777,https://www.nps.gov/npsa/index.htm
+Arches,Arches National Park,arch,UT,38.72261844,-109.5863666,https://www.nps.gov/arch/index.htm
+Badlands,Badlands National Park,badl,SD,43.68584846,-102.482942,https://www.nps.gov/badl/index.htm
+Big Bend,Big Bend National Park,bibe,TX,29.29817767,-103.2297897,https://www.nps.gov/bibe/index.htm
+Biscayne,Biscayne National Park,bisc,FL,25.490587,-80.21023851,https://www.nps.gov/bisc/index.htm
+Black Canyon of the Gunnison,Black Canyon Of The Gunnison National Park,blca,CO,38.57779869,-107.7242756,https://www.nps.gov/blca/index.htm
+Bryce Canyon,Bryce Canyon National Park,brca,UT,37.58399144,-112.1826689,https://www.nps.gov/brca/index.htm
+Canyonlands,Canyonlands National Park,cany,UT,38.24555783,-109.8801624,https://www.nps.gov/cany/index.htm
+Capitol Reef,Capitol Reef National Park,care,UT,38.2821653131,-111.247048378,https://www.nps.gov/care/index.htm
+Carlsbad Caverns,Carlsbad Caverns National Park,cave,NM,32.14089463,-104.5529688,https://www.nps.gov/cave/index.htm
+Channel Islands,Channel Islands National Park,chis,CA,33.98680093,-119.9112735,https://www.nps.gov/chis/index.htm
+Congaree,Congaree National Park,cong,SC,33.79187523,-80.74867805,https://www.nps.gov/cong/index.htm
+Crater Lake,Crater Lake National Park,crla,OR,42.94065854,-122.1338414,https://www.nps.gov/crla/index.htm
+Cuyahoga Valley,Cuyahoga Valley National Park,cuva,OH,41.26093905,-81.57116722,https://www.nps.gov/cuva/index.htm
+Death Valley,Death Valley National Park,deva,"CA,NV",36.48753731,-117.134395,https://www.nps.gov/deva/index.htm
+Denali,Denali National Park & Preserve,dena,AK,63.29777484,-151.0526568,https://www.nps.gov/dena/index.htm
+Dry Tortugas,Dry Tortugas National Park,drto,FL,24.628741,-82.87319,https://www.nps.gov/drto/index.htm
+Everglades,Everglades National Park,ever,FL,25.37294225,-80.88200301,https://www.nps.gov/ever/index.htm
+Gates of the Arctic,Gates Of The Arctic National Park & Preserve,gaar,AK,67.75961636,-153.2917758,https://www.nps.gov/gaar/index.htm
+Gateway Arch,Gateway Arch National Park,jeff,MO,38.6258069,-90.1892508,https://www.nps.gov/jeff/index.htm
+Glacier,Glacier Bay National Park & Preserve,glba,AK,58.80086718,-136.8407579,https://www.nps.gov/glba/index.htm
+Glacier Bay,Glacier Bay National Park & Preserve,glba,AK,58.80086718,-136.8407579,https://www.nps.gov/glba/index.htm
+Grand Canyon,Grand Canyon National Park,grca,AZ,36.0001165336,-112.121516363,https://www.nps.gov/grca/index.htm
+Grand Teton,Grand Teton National Park,grte,WY,43.81853565,-110.7054666,https://www.nps.gov/grte/index.htm
+Great Basin,Great Basin National Park,grba,NV,38.94617378,-114.2579782,https://www.nps.gov/grba/index.htm
+Great Sand Dunes,Great Sand Dunes National Park & Preserve,grsa,CO,37.79256812,-105.5919572,https://www.nps.gov/grsa/index.htm
+Great Smoky Mountains,Great Smoky Mountains National Park,grsm,"NC,TN",35.60116374,-83.50818326,https://www.nps.gov/grsm/index.htm
+Guadalupe Mountains,Guadalupe Mountains National Park,gumo,TX,31.92304462,-104.885527,https://www.nps.gov/gumo/index.htm
+Haleakalā,Haleakalā National Park,hale,HI,20.70693015,-156.1591775,https://www.nps.gov/hale/index.htm
+Hawaiʻi Volcanoes,Hawaiʻi Volcanoes National Park,havo,HI,19.3355036,-155.4700257,https://www.nps.gov/havo/index.htm
+Hot Springs,Hot Springs National Park,hosp,AR,34.52414366,-93.06332936,https://www.nps.gov/hosp/index.htm
+Indiana Dunes,Indiana Dunes National Park,indu,IN,41.63765525,-87.09647445,https://www.nps.gov/indu/index.htm
+Isle Royale,Isle Royale National Park,isro,MI,48.01145819,-88.82780657,https://www.nps.gov/isro/index.htm
+Joshua Tree,Joshua Tree National Park,jotr,CA,33.91418525,-115.8398125,https://www.nps.gov/jotr/index.htm
+Katmai,Katmai National Park & Preserve,katm,AK,58.62235668,-155.0126574,https://www.nps.gov/katm/index.htm
+Kenai Fjords,Kenai Fjords National Park,kefj,AK,59.81804414,-150.106502,https://www.nps.gov/kefj/index.htm
+Kings Canyon,Sequoia & Kings Canyon National Parks,seki,CA,36.71277299,-118.587429,https://www.nps.gov/seki/index.htm
+Kobuk Valley,Kobuk Valley National Park,kova,AK,67.35631336,-159.2002293,https://www.nps.gov/kova/index.htm
+Lake Clark,Lake Clark National Park & Preserve,lacl,AK,60.57405857,-153.55535,https://www.nps.gov/lacl/index.htm
+Lassen Volcanic,Lassen Volcanic National Park,lavo,CA,40.49354575,-121.4075993,https://www.nps.gov/lavo/index.htm
+Mammoth Cave,Mammoth Cave National Park,maca,KY,37.19760458,-86.13090198,https://www.nps.gov/maca/index.htm
+Mesa Verde,Mesa Verde National Park,meve,CO,37.23908345,-108.4624032,https://www.nps.gov/meve/index.htm
+Mount Rainier,Mount Rainier National Park,mora,WA,46.86075416,-121.7043885,https://www.nps.gov/mora/index.htm
+New River Gorge,New River Gorge National Park & Preserve,neri,WV,37.86878554,-80.99956002,https://www.nps.gov/neri/index.htm
+North Cascades,North Cascades National Park,noca,WA,48.71171756,-121.2069423,https://www.nps.gov/noca/index.htm
+Olympic,Olympic National Park,olym,WA,47.80392754,-123.6663848,https://www.nps.gov/olym/index.htm
+Petrified Forest,Petrified Forest National Park,pefo,AZ,34.98387664,-109.7877678,https://www.nps.gov/pefo/index.htm
+Pinnacles,Pinnacles National Park,pinn,CA,36.49029208,-121.1813607,https://www.nps.gov/pinn/index.htm
+Redwood,Redwood National and State Parks,redw,CA,41.37237268,-124.0318129,https://www.nps.gov/redw/index.htm
+Rocky Mountain,Rocky Mountain National Park,romo,CO,40.3556924,-105.6972879,https://www.nps.gov/romo/index.htm
+Saguaro,Saguaro National Park,sagu,AZ,32.20909636,-110.7574974,https://www.nps.gov/sagu/index.htm
+Sequoia,Sequoia & Kings Canyon National Parks,seki,CA,36.71277299,-118.587429,https://www.nps.gov/seki/index.htm
+Shenandoah,Shenandoah National Park,shen,VA,38.49236644,-78.46907715,https://www.nps.gov/shen/index.htm
+Theodore Roosevelt,Theodore Roosevelt Birthplace National Historic Site,thrb,NY,40.7386469,-73.98903703,https://www.nps.gov/thrb/index.htm
+Virgin Islands,Virgin Islands Coral Reef National Monument,vicr,VI,18.28996918,-64.70683395,https://www.nps.gov/vicr/index.htm
+Voyageurs,Voyageurs National Park,voya,MN,48.48370609,-92.8382913,https://www.nps.gov/voya/index.htm
+White Sands,White Sands National Park,whsa,NM,32.77907858,-106.3333461,https://www.nps.gov/whsa/index.htm
+Wind Cave,Wind Cave National Park,wica,SD,43.58012365,-103.4394709,https://www.nps.gov/wica/index.htm
+Wrangell–St. Elias,Wrangell - St Elias National Park & Preserve,wrst,AK,61.4182147,-142.6028439,https://www.nps.gov/wrst/index.htm
+Yellowstone,Yellowstone National Park,yell,"ID,MT,WY",44.59824417,-110.5471695,https://www.nps.gov/yell/index.htm
+Yosemite,Yosemite National Park,yose,CA,37.84883288,-119.5571873,https://www.nps.gov/yose/index.htm
+Zion,Zion National Park,zion,UT,37.29839254,-113.0265138,https://www.nps.gov/zion/index.htm

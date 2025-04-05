@@ -1,0 +1,68 @@
+﻿Title,ParkType
+Annual Park Ranking Report for Recreation Visits in: 2024,Park Type: National Park
+
+ParkName,Rank,Value,PercentOfTotal
+Great Smoky Mountains NP,1,"12,191,834",12.93%
+Zion NP,2,"4,946,592",5.25%
+Grand Canyon NP,3,"4,919,163",5.22%
+Yellowstone NP,4,"4,744,353",5.03%
+Rocky Mountain NP,5,"4,154,349",4.41%
+Yosemite NP,6,"4,121,807",4.37%
+Acadia NP,7,"3,961,661",4.20%
+Olympic NP,8,"3,717,267",3.94%
+Grand Teton NP,9,"3,628,222",3.85%
+Glacier NP,10,"3,208,755",3.40%
+Joshua Tree NP,11,"2,991,874",3.17%
+Cuyahoga Valley NP,12,"2,912,454",3.09%
+Indiana Dunes NP,13,"2,705,209",2.87%
+Gateway Arch NP,14,"2,563,052",2.72%
+Bryce Canyon NP,15,"2,498,075",2.65%
+Hot Springs NP,16,"2,461,812",2.61%
+New River Gorge NP & PRES,17,"1,811,937",1.92%
+Shenandoah NP,18,"1,720,211",1.82%
+Mount Rainier NP,19,"1,620,006",1.72%
+Arches NP,20,"1,466,528",1.56%
+Death Valley NP,21,"1,440,484",1.53%
+Hawaii Volcanoes NP,22,"1,433,593",1.52%
+Capitol Reef NP,23,"1,422,490",1.51%
+Sequoia NP,24,"1,309,573",1.39%
+Badlands NP,25,"1,094,245",1.16%
+Saguaro NP,26,"946,369",1.00%
+Canyonlands NP,27,"818,492",0.87%
+Mammoth Cave NP,28,"747,042",0.79%
+Everglades NP,29,"741,983",0.79%
+Glacier Bay NP & PRES,30,"736,282",0.78%
+Theodore Roosevelt NP,31,"732,951",0.78%
+Haleakala NP,32,"732,477",0.78%
+White Sands NP,33,"702,236",0.74%
+Kings Canyon NP,34,"699,389",0.74%
+Redwood NP,35,"622,883",0.66%
+Big Bend NP,36,"561,458",0.60%
+Petrified Forest NP,37,"559,254",0.59%
+Biscayne NP,38,"512,213",0.54%
+Crater Lake NP,39,"504,942",0.54%
+Wind Cave NP,40,"489,399",0.52%
+Mesa Verde NP,41,"480,065",0.51%
+Denali NP & PRES,42,"466,227",0.49%
+Carlsbad Caverns NP,43,"460,474",0.49%
+Great Sand Dunes NP & PRES,44,"437,661",0.46%
+Virgin Islands NP,45,"423,029",0.45%
+Kenai Fjords NP,46,"419,468",0.44%
+Lassen Volcanic NP,47,"357,651",0.38%
+Pinnacles NP,48,"354,076",0.38%
+Black Canyon of the Gunnison NP,49,"335,862",0.36%
+Channel Islands NP,50,"262,581",0.28%
+Congaree NP,51,"242,049",0.26%
+Guadalupe Mountains NP,52,"226,134",0.24%
+Voyageurs NP,53,"199,030",0.21%
+Great Basin NP,54,"152,068",0.16%
+Dry Tortugas NP,55,"84,873",0.09%
+Wrangell-St. Elias NP & PRES,56,"81,670",0.09%
+Katmai NP & PRES,57,"36,230",0.04%
+Isle Royale NP,58,"28,806",0.03%
+National Park of American Samoa,59,"22,567",0.02%
+Lake Clark NP & PRES,60,"18,505",0.02%
+Kobuk Valley NP,61,"17,233",0.02%
+North Cascades NP,62,"16,485",0.02%
+Gates of the Arctic NP & PRES,63,"11,907",0.01%
+
